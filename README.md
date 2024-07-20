@@ -10,7 +10,7 @@ Hello! I'm Nawazdiggi, a passionate data analyst and Power Bi developer.
 ## ProjectsAn
 - [Diabetes Detection](https://github.com/your-repo-link)
 - [Customer Behavior Analysis](https://github.com/your-repo-link)
-- [Classic Model Data Dashboard](https://github.com/your-repo-link)
+- [Classic_model_Data Dashboard](https://github.com/Nawazdiggi/Power-bi-project/blob/main/Classic_model_dashboard.png)
 
 ## Skills
 - Programming Languages: Python, SQL
