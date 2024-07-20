@@ -7,15 +7,15 @@ Hello! I'm Nawazdiggi, a passionate data analyst and Power Bi developer.
 - 👯 I’m looking to collaborate on Power BI  Developer and Data Analyst projects
 - 💬 Ask me about Python, data analysis, and machine learning
 
-## ProjectsAn
+## projects
 - [Diabetes Detection](https://github.com/your-repo-link)
-- [Customer Behavior Analysis](https://github.com/Nawazdiggi/Power-bi-project/blob/main/Madhav_sales%20dashboard.png)
+- [Customer sales Analysis](https://github.com/Nawazdiggi/Power-bi-project/blob/main/Madhav_sales%20dashboard.png)
 - [Classic_model_Data Dashboard](https://github.com/Nawazdiggi/Power-bi-project/blob/main/Classic_model_dashboard.png)
 
 ## Skills
 - Programming Languages: Python, SQL
 - Data Analysis: Pandas, NumPy, Scikit-Learn
-- Data Visualization: Matplotlib, Seaborn, Tableau, Power BI
+- Data Visualization: Matplotlib, Seaborn, Tableau, Power BI, Excel
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
