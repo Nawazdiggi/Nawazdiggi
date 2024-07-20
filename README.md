@@ -18,7 +18,7 @@ Hello! I'm Nawazdiggi, a passionate data analyst and Power Bi developer.
 - Data Visualization: Matplotlib, Seaborn, Tableau, Power BI, Excel
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/Nawaz-diggi)
+- [LinkedIn](www.linkedin.com/in/nawaz-diggi)
 
 
 Thanks for visiting my profile!
